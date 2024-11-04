@@ -18,10 +18,15 @@ You are required to model the demand for shared bikes with the available indepen
 ## Steps Followed
 
 Step 1: Reading and Understanding the Data
+<br />
 Step 2: Preparing the data for modelling
+<br />
 Step 3: Training the Model
+<br />
 Step 4: Residual Analysis
+<br />
 Step 5: Predection and evaluation of test set
+<br />
 
 ## Contributors
 
